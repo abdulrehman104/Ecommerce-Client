@@ -4,7 +4,7 @@ Here’s a tailored `README.md` for your **Ecommerce-Client** repository to make
 
 # E-commerce Client 🛍️
 
-This repository contains the **frontend client** of a modern e-commerce platform. The project aims to provide an interactive, responsive, and user-friendly shopping experience with seamless integration of various modern technologies.
+This repository contains the modern e-commerce platform. The project aims to provide an interactive, responsive, and user-friendly shopping experience with seamless integration of various modern technologies.
 
 ---
 
