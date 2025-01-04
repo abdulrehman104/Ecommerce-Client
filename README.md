@@ -107,4 +107,4 @@ If you have any questions or feedback, feel free to reach out:
 
 ## 🌐 Live Demo
 
-You can explore the live version here: [Live Demo Link](https://ecommerce-client-dun.vercel.app/) (Update with your Vercel link if available)
+You can explore the live version here: [Live Demo Link](https://drive.google.com/file/d/1M2-9HBXrZ_6x3pjwycO9wk4_Kr35_5vg/view?usp=drive_link)
