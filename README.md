@@ -1,7 +1,3 @@
-# 📹 Demo Video
-
-<iframe src="https://drive.google.com/file/d/1M2-9HBXrZ_6x3pjwycO9wk4_Kr35_5vg/view?usp=sharing" width="640" height="360" allow="autoplay"/>
-
 # E-commerce Client 🛍️
 
 This repository contains the modern e-commerce platform. The project aims to provide an interactive, responsive, and user-friendly shopping experience with seamless integration of various modern technologies.
